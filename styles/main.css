@@ -23,3 +23,9 @@ main{
 footer{
     text-align: center;
 }
+.discount-container {
+    margin: 20px;
+}
+label {
+    margin-right: 10px;
+}

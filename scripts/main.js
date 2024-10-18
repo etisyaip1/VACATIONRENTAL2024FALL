@@ -10,7 +10,7 @@ const header = `
                     <a href="activities.html">Activities</a>
                 </li>
                 <li>
-                    <a href="car.html"> Car</a>
+                    <a href="car.html"> Car Rentals</a>
                 </li>
                 <li>
                     <a href="dining.html">Dining</a>
@@ -18,6 +18,7 @@ const header = `
                 <li>
                     <a href="overnight.html">Overnight</a>
                 </li>
+
             </ul>
         </nav>
     </header>
