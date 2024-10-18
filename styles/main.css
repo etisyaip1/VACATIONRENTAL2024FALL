@@ -1,0 +1,25 @@
+body{
+    background-color: lightseagreen;
+}
+nav{
+    background-color: rgb(238, 187, 236);
+}
+nav a{
+    color: orangered;
+    text-decoration: none;
+    padding: 1rem;
+    display: inline-block;
+}
+nav li:hover a{
+    color: darkorchid;
+    text-decoration: underline;
+}
+nav li{
+    display: inline-block;
+}
+main{
+    padding: 1.5rem;
+}
+footer{
+    text-align: center;
+}
